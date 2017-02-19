@@ -1,3 +1,4 @@
+-- for students
 module Solve_Quadratic
     where
 
